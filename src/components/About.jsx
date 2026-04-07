@@ -28,7 +28,7 @@ function About() {
           <div className="md:w-1/3 p-8 flex justify-center">
             <div className="relative">
               <img
-                src={""}
+                src={"/abtimg.jpg"}
                 alt=""
                 className="w-64 h-64 object-cover rounded-full border-4 border-green-600 shadow-lg"
               />
